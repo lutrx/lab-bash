@@ -32,3 +32,12 @@
 
 17) ls lorem* | wc -l
 
+Bonus:
+
+20) read -a name <<< "Lisa"
+
+21) echo ${name}
+
+22) mkdir ${name}
+
+23) rmdir ${name}
