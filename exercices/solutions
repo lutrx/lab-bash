@@ -1,0 +1,13 @@
+1) echo 'Hello World'
+
+2) mkdir new_dir
+
+3) rmdir new_dir
+
+4) lisab@Lisa-PC MINGW64 ~/OneDrive/Desktop/DA_labs/Week_1/Day_1/lab-bash/lorem (master)
+$ cp sed.txt ../lorem-copy
+
+5) lisab@Lisa-PC MINGW64 ~/OneDrive/Desktop/DA_labs/Week_1/Day_1/lab-bash/lorem (master)
+$ cp at.txt ../lorem-copy; cp at.txte ../lorem-copy; cp lorem.txt ../lorem-copy
+
+6) 
